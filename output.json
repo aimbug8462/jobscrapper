@@ -1,0 +1,352 @@
+[
+   {
+      "title": "Senior Full Stack Dev (Laravel)",
+      "company": "Credit Glory",
+      "place": "Remote",
+      "id": 1,
+      "_id": "5e60df8802ab466874744606"
+   },
+   {
+      "title": "Full-Stack .NET Engineer",
+      "company": "MediKeeper",
+      "place": "San Diego, CA ",
+      "id": 2,
+      "_id": "5e60df8802ab466874744607"
+   },
+   {
+      "title": "Web Developer",
+      "company": "Wisconsin School of Business",
+      "place": "Madison, WI",
+      "id": 3,
+      "_id": "5e60df8802ab466874744608"
+   },
+   {
+      "title": "Sr. Full Stack Developer",
+      "company": "HatchWorks Technologies",
+      "place": "Chamblee",
+      "id": 4,
+      "_id": "5e60df8802ab466874744609"
+   },
+   {
+      "title": "Senior Fullstack Engineer (Remote)",
+      "company": "Impala",
+      "place": "Remote",
+      "id": 5,
+      "_id": "5e60df8802ab46687474460a"
+   },
+   {
+      "title": "Ruby Full Stack Developer (m/f)",
+      "company": "cognita Deutschland GmbH\t",
+      "place": "Berlin",
+      "id": 6,
+      "_id": "5e60df8802ab46687474460b"
+   },
+   {
+      "title": "Senior Full Stack Developer",
+      "company": "Defendify",
+      "place": "Portland, Maine",
+      "id": 7,
+      "_id": "5e60df8802ab46687474460c"
+   },
+   {
+      "title": "Digital Project Archivist",
+      "company": "University of California Berkeley",
+      "place": "Berkeley, CA",
+      "id": 8,
+      "_id": "5e60df8802ab46687474460d"
+   },
+   {
+      "title": "Software Engineers- All levels!",
+      "company": "TravelPerk",
+      "place": "Barcelona",
+      "id": 9,
+      "_id": "5e60df8802ab46687474460e"
+   },
+   {
+      "title": "Senior Python Engineer Munich (m/f/x)",
+      "company": "Alasco GmbH",
+      "place": "München",
+      "id": 10,
+      "_id": "5e60df8802ab46687474460f"
+   },
+   {
+      "title": "Senior Software Developer - Officevibe",
+      "company": "GSOFT",
+      "place": "Montréal",
+      "id": 11,
+      "_id": "5e60df8802ab466874744610"
+   },
+   {
+      "title": "React / Front-end Developer",
+      "company": "NPO",
+      "place": "Hilversum",
+      "id": 12,
+      "_id": "5e60df8802ab466874744611"
+   },
+   {
+      "title": "Softwareentwickler_in in der Digitalisierung (m/w/d)",
+      "company": "BASF SE",
+      "place": "Ludwigshafen",
+      "id": 13,
+      "_id": "5e60df8802ab466874744612"
+   },
+   {
+      "title": "(Senior) Salesforce Entwickler (m/w/d)",
+      "company": "auxmoney GmbH",
+      "place": "Düsseldorf",
+      "id": 14,
+      "_id": "5e60df8802ab466874744613"
+   },
+   {
+      "title": "Data Officer",
+      "company": "European Food Safety Authority (EFSA)",
+      "place": "Parma",
+      "id": 15,
+      "_id": "5e60df8802ab466874744614"
+   },
+   {
+      "title": "Senior Game Engineer (REMOTE)",
+      "company": "Game Closure",
+      "place": "San Francisco, Mountain View, Tokyo, Remote",
+      "id": 16,
+      "_id": "5e60df8802ab466874744615"
+   },
+   {
+      "title": "Senior React Engineer",
+      "company": "Founders Table (Chopt & Dos Toros)",
+      "place": "New York City (or Remote)",
+      "id": 17,
+      "_id": "5e60df8802ab466874744616"
+   },
+   {
+      "title": "(Senior) PHP-Entwickler (m/w/d)",
+      "company": "auxmoney GmbH",
+      "place": "Düsseldorf",
+      "id": 18,
+      "_id": "5e60df8802ab466874744617"
+   },
+   {
+      "title": "Backend Engineer (d/f/m) for Mobility Core & Services Squad",
+      "company": "moovel Group GmbH (REACH NOW)",
+      "place": "Hamburg",
+      "id": 19,
+      "_id": "5e60df8802ab466874744618"
+   },
+   {
+      "title": "Senior Front-End Developer",
+      "company": "Axendo",
+      "place": "Leusden",
+      "id": 20,
+      "_id": "5e60df8802ab466874744619"
+   },
+   {
+      "title": "Software Engineer Frontend (m/f/d)",
+      "company": "bookingkit GmbH\t",
+      "place": "Berlin",
+      "id": 21,
+      "_id": "5e60df8802ab46687474461a"
+   },
+   {
+      "title": "Android Engineer (m/f/d)",
+      "company": "Trade Republic Bank GmbH\t",
+      "place": "Berlin",
+      "id": 22,
+      "_id": "5e60df8802ab46687474461b"
+   },
+   {
+      "title": "IT-Spezialist (m/w/d) Systems Department",
+      "company": "MUFG Bank (Europe) N.V.  Germany Branch",
+      "place": "Düsseldorf",
+      "id": 23,
+      "_id": "5e60df8802ab46687474461c"
+   },
+   {
+      "title": "IOS Engineer",
+      "company": "Trade Republic Bank GmbH\t",
+      "place": "Berlin",
+      "id": 24,
+      "_id": "5e60df8802ab46687474461d"
+   },
+   {
+      "title": "Site Reliability Engineer",
+      "company": "Zapier",
+      "place": "Remote",
+      "id": 25,
+      "_id": "5e60df8802ab46687474461e"
+   },
+   {
+      "title": "Creative Technology Lead ",
+      "company": "IDEO",
+      "place": "Munich",
+      "id": 26,
+      "_id": "5e60df8802ab46687474461f"
+   },
+   {
+      "title": "Software Developer",
+      "company": "INFICON",
+      "place": "Austin, Texas, United States, 78744",
+      "id": 27,
+      "_id": "5e60df8802ab466874744620"
+   },
+   {
+      "title": "Senior Ruby Developer",
+      "company": "Wrapbook",
+      "place": "Toronto, Canada",
+      "id": 28,
+      "_id": "5e60df8802ab466874744621"
+   },
+   {
+      "title": "Business Intelligence Project Manager (m/w/d)",
+      "company": "Consors Finanz BNP Paribas S.A. Niederlassung Deutschland",
+      "place": "München",
+      "id": 29,
+      "_id": "5e60df8802ab466874744622"
+   },
+   {
+      "title": "TypeScript/JavaScript Software Developer (w/m/d)",
+      "company": "encoway GmbH",
+      "place": "Bremen",
+      "id": 30,
+      "_id": "5e60df8802ab466874744623"
+   },
+   {
+      "title": ".NET Developer",
+      "company": "Matrix42",
+      "place": "Minsk",
+      "id": 31,
+      "_id": "5e60df8802ab466874744624"
+   },
+   {
+      "title": "Full Stack Web Developer ",
+      "company": "Equal Plus Consulting ",
+      "place": "Columbus, OHIO",
+      "id": 32,
+      "_id": "5e60df8802ab466874744625"
+   },
+   {
+      "title": "Integratie Specialist (Red Hat)",
+      "company": "Finalist",
+      "place": "Rotterdam",
+      "id": 33,
+      "_id": "5e60df8802ab466874744626"
+   },
+   {
+      "title": "Front End Developer (Angular 5+) ",
+      "company": "Lawrence Berkeley National Laboratory (LBNL)",
+      "place": "Berkeley",
+      "id": 34,
+      "_id": "5e60df8802ab466874744627"
+   },
+   {
+      "title": "Front End Developer",
+      "company": "Port.",
+      "place": "New York City (Tribeca)",
+      "id": 35,
+      "_id": "5e60df8802ab466874744628"
+   },
+   {
+      "title": "Senior Front-End Web Developer",
+      "company": "Secure Privacy",
+      "place": "Remote",
+      "id": 36,
+      "_id": "5e60df8802ab466874744629"
+   },
+   {
+      "title": "Software-Entwickler (für Output Management System) (m/w/d)",
+      "company": "Consors Finanz BNP Paribas S.A. Niederlassung Deutschland",
+      "place": "München",
+      "id": 37,
+      "_id": "5e60df8802ab46687474462a"
+   },
+   {
+      "title": "Data Warehouse Developer (m/w/d)",
+      "company": "Consors Finanz BNP Paribas S.A. Niederlassung Deutschland",
+      "place": "München",
+      "id": 38,
+      "_id": "5e60df8802ab46687474462b"
+   },
+   {
+      "title": "Senior Software Engineer",
+      "company": "Prota Ventures",
+      "place": "Remote",
+      "id": 39,
+      "_id": "5e60df8802ab46687474462c"
+   },
+   {
+      "title": "Senior Frontend Engineer",
+      "company": "Face Hired Inc",
+      "place": "San Mateo",
+      "id": 40,
+      "_id": "5e60df8802ab46687474462d"
+   },
+   {
+      "title": "Director of Product Management ",
+      "company": "CircleCI",
+      "place": "SAN FRANCISCO",
+      "id": 41,
+      "_id": "5e60df8802ab46687474462e"
+   },
+   {
+      "title": "Senior Software Developer (m/f/d)",
+      "company": "neuroloop GmbH",
+      "place": "Freiburg im Breisgau",
+      "id": 42,
+      "_id": "5e60df8802ab46687474462f"
+   },
+   {
+      "title": "Development Engineer (Server-side) , (English and Japanese speakers welcome)",
+      "company": "LINE Fukuoka",
+      "place": "Fukuoka, Japan",
+      "id": 43,
+      "_id": "5e60df8802ab466874744630"
+   },
+   {
+      "title": "Development Engineer (iOS/Android)",
+      "company": "LINE Fukuoka",
+      "place": "Fukuoka, Japan",
+      "id": 44,
+      "_id": "5e60df8802ab466874744631"
+   },
+   {
+      "title": "ENTWICKLER (M/W) EMBEDDED SOFTWARE FÜR ELEKTRONISCHE SICHERHEITSSYSTEME",
+      "company": "Raven51 AG",
+      "place": "Affing",
+      "id": 45,
+      "_id": "5e60df8802ab466874744632"
+   },
+   {
+      "title": "Senior software engineer",
+      "company": "Noordhoff",
+      "place": "Utrecht",
+      "id": 46,
+      "_id": "5e60df8802ab466874744633"
+   },
+   {
+      "title": "Senior Software Engineer - Tools (React.js)",
+      "company": "Wooga",
+      "place": "Berlin",
+      "id": 47,
+      "_id": "5e60df8802ab466874744634"
+   },
+   {
+      "title": "Software Engineer - React, GraphQL",
+      "company": "Kiron Open Higher Education gGmbH\t",
+      "place": "Berlin",
+      "id": 48,
+      "_id": "5e60df8802ab466874744635"
+   },
+   {
+      "title": "Robotics Engineer (Sensor Fusion)",
+      "company": "Wheel.me AS",
+      "place": "Oslo",
+      "id": 49,
+      "_id": "5e60df8802ab466874744636"
+   },
+   {
+      "title": "Softwareentwickler Schwerpunkt ERP (m/w/d)",
+      "company": "CSB-System AG",
+      "place": "Geilenkirchen",
+      "id": 50,
+      "_id": "5e60df8802ab466874744637"
+   }
+]
